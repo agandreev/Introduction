@@ -13,6 +13,7 @@ namespace Task1
             int n;
             do
             {
+                // Input
                 do
                 {
                     Console.WriteLine("Enter a number");
